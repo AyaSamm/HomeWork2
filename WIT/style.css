@@ -1,0 +1,53 @@
+div.card{
+    position:relative;
+    width:450px;
+    height:670px;
+    background-color: #a44491d2;
+}
+
+div.imagecont{
+    width:450px;
+    height:250px;
+    background-color: #1d1d1d;
+    background: url("/Wit.jpg");
+    background-size: cover;
+    background-position:center;
+}
+
+button{
+    position:absolute;
+    cursor: pointer;
+    border-radius: 5px;
+    width:65px;
+    height:31px;
+    line-height:1.4;
+    top:8px;
+    left:15px;
+    background-color: rgba(232, 196, 221, 0.834);
+    color :rgba(56, 23, 56, 0.938);
+    font-size:25px;
+    padding-top:3px;
+    margin-left: 350px;
+    line-height:1
+}
+
+div.card h1{
+
+padding: 0px 15px 5px 10px;
+color:rgba(255, 255, 255, 0.745);
+border-bottom: double;
+line-height:1.4;
+}
+
+ div.card p{
+padding:0px 15px 0px 10px;
+color:rgba(255, 255, 255, 0.745);
+text-align:justify;
+font-size:15px;
+line-height:1.4;
+    }
+
+sub{
+color: rgba(28, 23, 28, 0.938);
+font-size: 18px;
+}
